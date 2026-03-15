@@ -1,5 +1,5 @@
 # 💫 About Me:
-MCA Student at MITE 
+MCA Student at MITE
 
 
 ## 🌐 Socials:
