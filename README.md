@@ -1,5 +1,5 @@
 # 💫 About Me:
-MCA Student at MITE
+MCA Student at Mangalore Institute of Technology Engineering 
 
 
 ## 🌐 Socials:
