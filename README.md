@@ -1,5 +1,5 @@
 # 💫 About Me:
-MCA Student at Mangalore Institute of Technology Engineering 
+MCA Student at Mangalore Institute of Technology and Engineering 
 
 
 ## 🌐 Socials:
