@@ -40,10 +40,9 @@ MCA Student at Mangalore Institute of Technology and Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YajneshPoojary28&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YajneshPoojary28&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YajneshPoojary28&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YajneshPoojary28&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
-
 <!-- Visitor Counter (Optional)
 [![](https://visitcount.itsvg.in/api?id=YajneshPoojary28&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
