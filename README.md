@@ -12,12 +12,13 @@ MCA Student at Mangalore Institute of Technology and Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YajneshPoojary28&show_icons=true&theme=github_dark&rank_icon=github&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YajneshPoojary28&layout=compact&theme=github_dark&langs_count=8&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YajneshPoojary28&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YajneshPoojary28&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YajneshPoojary28&theme=github-dark" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=YajneshPoojary28&theme=github-dark&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
