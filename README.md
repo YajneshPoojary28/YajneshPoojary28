@@ -37,11 +37,15 @@ MCA Student at Mangalore Institute of Technology and Engineering
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YajneshPoojary28&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YajneshPoojary28&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YajneshPoojary28&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YajneshPoojary28&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YajneshPoojary28&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 <!-- Visitor Counter (Optional)
 [![](https://visitcount.itsvg.in/api?id=YajneshPoojary28&icon=0&color=0)](https://visitcount.itsvg.in)
