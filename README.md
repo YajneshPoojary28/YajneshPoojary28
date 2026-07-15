@@ -19,6 +19,5 @@ MCA Student at Mangalore Institute of Technology and Engineering
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YajneshPoojary28&theme=github-dark" height="170"/>
 </p>
-[![](https://visitcount.itsvg.in/api?id=YajneshPoojary28&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
