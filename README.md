@@ -1,16 +1,18 @@
-# 💫 About Me:
+# 💫 About Me
+
 MCA Student at Mangalore Institute of Technology and Engineering
 
 ---
 
-## 🌐 Socials:
+# 🌐 Socials
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yajnesh483)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yajnesh-poojary-657524341)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yajneshyajnesh328@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -32,21 +34,22 @@ MCA Student at Mangalore Institute of Technology and Engineering
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 
-## 📊 GitHub Streak
+---
+
+# 📊 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YajneshPoojary28&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
-## 📈 Contribution Graph
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YajneshPoojary28&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YajneshPoojary28&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-</p>
 <!-- Visitor Counter (Optional)
 [![](https://visitcount.itsvg.in/api?id=YajneshPoojary28&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
