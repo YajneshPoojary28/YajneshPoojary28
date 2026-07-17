@@ -39,7 +39,7 @@ MCA Student at Mangalore Institute of Technology and Engineering
 # 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YajneshPoojary28&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=YajneshPoojary28&theme=github-dark&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -47,9 +47,8 @@ MCA Student at Mangalore Institute of Technology and Engineering
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YajneshPoojary28&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YajneshPoojary28&theme=github-dark&hide_border=true&cache_seconds=1800" />
 </p>
-
 <!-- Visitor Counter (Optional)
 [![](https://visitcount.itsvg.in/api?id=YajneshPoojary28&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
