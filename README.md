@@ -47,7 +47,7 @@ MCA Student at Mangalore Institute of Technology and Engineering
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YajneshPoojary28&theme=github-dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YajneshPoojary28&theme=github-dark&hide_border=true&cache_seconds=1" alt="Contribution Graph"/>
 </p>
 <!-- Visitor Counter (Optional)
 [![](https://visitcount.itsvg.in/api?id=YajneshPoojary28&icon=0&color=0)](https://visitcount.itsvg.in)
