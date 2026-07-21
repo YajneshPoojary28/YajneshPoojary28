@@ -39,7 +39,7 @@ MCA Student at Mangalore Institute of Technology and Engineering
 # 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YajneshPoojary28&theme=github-dark&hide_border=true&border_radius=10" />
+    <img src="https://streak-stats.demolab.com?user=YajneshPoojary28&theme=github-dark&hide_border=true&border_radius=10&v=3" />
 </p>
 
 ---
