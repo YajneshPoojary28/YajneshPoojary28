@@ -9,7 +9,7 @@ MCA Student at Mangalore Institute of Technology and Engineering
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yajnesh483)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yajnesh-poojary-657524341)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yajneshyajnesh328@gmail.com)
-
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/rjmjk44g6wowf77sut)
 ---
 
 # 💻 Tech Stack
